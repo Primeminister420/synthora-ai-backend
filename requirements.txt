@@ -1,0 +1,6 @@
+flask
+gunicorn
+openai
+firebase-admin
+whisper
+uvicorn
